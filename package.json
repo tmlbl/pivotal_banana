@@ -1,0 +1,24 @@
+{
+  "name": "pivotal_banana",
+  "version": "0.0.0",
+  "description": "pivotal_banana ==============",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tmlbl/pivotal_banana.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tmlbl/pivotal_banana/issues"
+  },
+  "devDependencies": {
+    "grunt-simple-mocha": "~0.4.0",
+    "chai": "~1.9.0",
+    "grunt": "~0.4.2",
+    "mocha": "~1.17.1"
+  }
+}
