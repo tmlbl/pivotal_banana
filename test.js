@@ -17,4 +17,5 @@ describe('Banana', function () {
     banana.steal();
     expect(banana.getOwner()).to.equal('Tim');
   });
+  // Thank you
 });
